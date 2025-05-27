@@ -21,7 +21,7 @@ jobs:
         os:
           - macOS-latest
           - ubuntu-latest
-          - windows-latest
+          - windows-2022
         exclude:
           - arch: x86
             os: macOS-latest
